@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 ғᴀʟʟᴇɴ ✘ ʀᴏʙᴏᴛ 」──
+    ──「 sʏsᴛᴇᴍ ✘ ɴᴇᴛᴡᴏʀᴋ 」──
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/6961eb4e48ff175661166.jpg">
+  <img src="https://files.catbox.moe/huc8kl.jpg">
 </p>
 
 **_Available on Telegram as [@FallenxBot](https://t.me/FallenxBot)_**
